@@ -1,0 +1,42 @@
+body {
+}
+.mainhead h1 {
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+.secondhead h2 {
+    text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: larger;
+}
+.nav ul li{
+    font-family: sans-serif;
+    top: 1px;
+    font-size: larger;   
+}
+.nav ul li{
+    display: inline;
+    color: Black;
+}
+.nav {
+    text-align: center;
+    position: relative;
+}
+.nav h1 {
+    color: White;
+    background-color: DodgerBlue;
+    text-align: left;
+    font-family: monospace;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.nav h2{
+    text-align: right;
+}
